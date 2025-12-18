@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Inteligência Artificial no Dia a Dia: O Que Já Usamos e Não Percebemos
 
 ## 📒 Descrição
-Este e-book de 5 páginas apresenta uma visão clara e acessível sobre como a Inteligência Artificial já está presente no cotidiano das pessoas, muitas vezes de forma imperceptível. A obra aborda conceitos fundamentais, exemplos práticos de uso da IA em diferentes áreas e reflexões sobre seu impacto na sociedade, desmistificando a tecnologia e destacando seu papel como ferramenta de apoio ao ser humano.
+Este e-book de 4 páginas apresenta uma visão clara e acessível sobre como a Inteligência Artificial já está presente no cotidiano das pessoas, muitas vezes de forma imperceptível. A obra aborda conceitos fundamentais, exemplos práticos de uso da IA em diferentes áreas e reflexões sobre seu impacto na sociedade, desmistificando a tecnologia e destacando seu papel como ferramenta de apoio ao ser humano.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
@@ -34,6 +34,7 @@ O desenvolvimento deste e-book foi realizado a partir de pesquisa conceitual sob
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo claro, didático e acessível, evidenciando como a Inteligência Artificial já está integrada ao cotidiano das pessoas por meio de aplicações práticas e amplamente utilizadas. O material contribui para a compreensão do tema, desmistificando a IA e demonstrando seu potencial como ferramenta de apoio à vida humana, à educação e aos processos de tomada de decisão.
+- [E-BOOK](/exemplos/Inteligência Artificial no Dia a Dia.docx)
 
 ## 💭 Reflexão (Opcional)
 A criação deste e-book mostrou que produzir um conteúdo natural com o apoio da Inteligência Artificial exige equilíbrio entre tecnologia e intervenção humana, reforçando a importância do senso crítico e da curadoria no processo criativo.
